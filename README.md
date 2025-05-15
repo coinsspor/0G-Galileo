@@ -78,6 +78,6 @@ All endpoints are now live and publicly available:
 Feel free to plug in and build on top of 0G 🚀  
 Let’s scale the next-gen decentralized future together 🔧🌍
 
-#0GGalileo #RPC #EVM #API #Coinsspor #ValidatorInfra
+#0GGalileo #RPC #EVM #API #Coinsspor #Validator
 
 
