@@ -62,5 +62,22 @@ while true; do
   sleep 5
 done
 ```
+## 🛰️ 0G Galileo Public Node Infrastructure by Coinsspor 🚀
+
+We are excited to share our full suite of RPC services for the 0G Galileo Network!  
+All endpoints are now live and publicly available:
+
+🔗 **RPC**: https://0g-rpc-galileo.coinsspor.com  
+⚙️ **EVM RPC**: https://0g-evmrpc-galileo.coinsspor.com  
+📡 **API**: https://0g-api-galileo.coinsspor.com
+
+🧠 High-availability, validator-grade infrastructure  
+🛡️ Monitored, secured, and optimized  
+🕵️‍♂️ By Coinsspor Node Center 
+
+Feel free to plug in and build on top of 0G 🚀  
+Let’s scale the next-gen decentralized future together 🔧🌍
+
+#0GGalileo #RPC #EVM #API #Coinsspor #ValidatorInfra
 
 
